@@ -8,4 +8,5 @@ Projects:
 - **Guess The Number** - Number guessing game
 - **Higher Lower** - Higher/lower guessing game
 - **OOP Coffee Machine** - Simulates a coffee machine using OOP
+- **Mail Merge** - Take simple mail and merge it with diffrent name
 
