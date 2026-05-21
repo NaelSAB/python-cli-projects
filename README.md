@@ -9,4 +9,5 @@ Projects:
 - **Higher Lower** - Higher/lower guessing game
 - **OOP Coffee Machine** - Simulates a coffee machine using OOP
 - **Mail Merge** - Take simple mail and merge it with diffrent name
+- **NATO-alphabet** - Take the world and sample it to NATO-alphabet
 
